@@ -1,0 +1,10 @@
+.timer{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(182, 182, 182);
+  padding: 10px 15px;
+  border: 1px solid rgb(182, 182, 182);
+  font-size: 20px;
+}
+.timer span {
+  margin: 2px;
+}
