@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './style.css';
 import CountdownTimer from './Components/CountdownTimer/CountdownTimer';
 
 function App() {
